@@ -39,15 +39,8 @@ public class Carte {
         return number;
     }
 
-    public void setNumber(int number) {
-        this.number = number;
-    }
-
     public int getHeads() {
         return heads;
     }
 
-    public void setHeads(int heads) {
-        this.heads = heads;
-    }
 }
